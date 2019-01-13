@@ -1,5 +1,4 @@
 import tensorflow as tf
-from tensorflow import keras
 import os
 import numpy as np
 import sklearn
